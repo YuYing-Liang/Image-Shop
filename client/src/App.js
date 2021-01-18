@@ -13,6 +13,7 @@ function App() {
     <Container>
       <br/><br/>
       <h2> Gallery </h2>
+      <a href="https://github.com/YuYing-Liang/Image-Shop">View Source Code</a>
       <br/>
       <Nav pills>
         <NavItem>
