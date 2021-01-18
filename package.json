@@ -1,7 +1,11 @@
 {
-  "name": "shopify_application",
-  "version": "0.1.0",
-  "private": true,
+  "name": "image-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main":"server.js",
+  "keywords": [],
+	"author": "",
+	"license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
